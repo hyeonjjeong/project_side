@@ -4,3 +4,35 @@
   border-radius:50%;
   border:solid 1px gray;
 }
+.friends-list img{
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  border:solid 1px gray;
+}
+.user_profile-link{
+  display:flex;
+  padding:7px 10px;
+  flex-direction:row;
+}
+.user_profile-avatar{
+  display: flex;
+  padding:7px 3px;
+}
+.user_text-message{
+  display:flex;
+  padding:7px 3px;
+}
+.friend_profile-link{
+  display:flex;
+  padding:7px 10px;
+  flex-direction:row;
+}
+.friend_profile-avatar{
+  display:flex;
+  padding:7px 3px;
+}
+.friend_text-message{
+  display:flex;
+  padding:7px 10px;
+}

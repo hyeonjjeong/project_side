@@ -19,3 +19,12 @@ nav a.menu-tap--selected{
   display:flex;
   justify-content: space-between;
 }
+.menu-tap_wrap{
+  display:flex;
+  justify-content:space-between;
+  padding:7px 20px;
+}
+.menu-tap_wrap{
+  flex-direction: column;
+  text-align: center;
+}

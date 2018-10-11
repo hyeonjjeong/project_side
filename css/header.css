@@ -9,7 +9,7 @@ header.search-bar-on{
 
 .header-bottom{
   display: inline-block;
-  display:flex;
+  display: flex;
   justify-content: space-between;
   padding:7px 20px;
 }
