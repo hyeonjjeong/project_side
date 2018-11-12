@@ -1,3 +1,4 @@
+
 .user_profile-avatar img{
   width:50px;
   height:50px;
@@ -12,27 +13,35 @@
 }
 .user_profile-link{
   display:flex;
-  padding:7px 10px;
-  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+}
+.user_profile-name{
+  margin-left:10px;
 }
 .user_profile-avatar{
   display: flex;
+  align-items: center;
   padding:7px 3px;
 }
 .user_text-message{
-  display:flex;
+  display:block;
   padding:7px 3px;
 }
 .friend_profile-link{
   display:flex;
-  padding:7px 10px;
-  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
 }
 .friend_profile-avatar{
   display:flex;
+  align-items: center;
   padding:7px 3px;
 }
 .friend_text-message{
-  display:flex;
+  display:block;
   padding:7px 10px;
+}
+.friend_profile-name{
+  margin-left:10px;
 }
