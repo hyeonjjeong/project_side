@@ -2,5 +2,8 @@
 @import "header.css";
 @import "navigation.css";
 @import "friends.css";
-@import "chat.css";
+@import "chats.css";
 @import "all.css";
+@import "chat.css";
+@import "profile.css";
+@import "more.css";
